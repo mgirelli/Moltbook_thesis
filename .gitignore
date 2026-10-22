@@ -7,3 +7,4 @@ moltbook/
 reddit/
 *.parquet
 *.pkl
+arctic_shift/
